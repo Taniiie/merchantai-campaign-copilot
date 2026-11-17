@@ -194,15 +194,6 @@ The project runs in **demo mode** by default and has been manually tested end-to
 - **Demo responses are static** — the same mock output regardless of input specifics
 - **Single campaign per merchant** — each "Generate All" creates a new campaign record
 
-## Future Improvements
-
-- [ ] Vector-based RAG with ChromaDB or similar
-- [ ] User authentication and authorization
-- [ ] PostgreSQL migration for production
-- [ ] Automated test suite (pytest + React Testing Library)
-- [ ] Real-time streaming responses
-- [ ] Multiple campaign management per merchant
-- [ ] Analytics dashboard
 
 ## Credits & Attribution
 
